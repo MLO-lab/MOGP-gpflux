@@ -1,4 +1,4 @@
-name: MOGP-TF-Florian
+name: MOGP-GPFLUX
 channels:
   - nvidia
   - conda-forge
