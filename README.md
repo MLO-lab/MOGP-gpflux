@@ -1,6 +1,6 @@
-# MOGP
+# MOMO-GP
 
-A Multi-output Gaussian Processes for Integration of Multi Omics Data:
+A Multi-Omic Multi-output Gaussian Processes for Integration of Multi Omics Data:
 - which learns the nonlinear structure of data by combining the neural network layer with the Gaussian Process layer,
 - in the single-view version, it learns separate latent representations for both cells and genes, and
 - in the multi-view version, it learns a shared representation of cells and separate representations of features for each view in an interpretable manner.
